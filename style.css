@@ -1912,3 +1912,14 @@ a {
   }
 
 }
+
+/* Live Google Reviews Widget */
+.live-google-reviews {
+  width: 100%;
+  max-width: 1200px;
+  margin: 35px auto 50px;
+}
+
+.sk-ww-google-reviews {
+  width: 100%;
+}

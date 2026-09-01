@@ -1923,3 +1923,14 @@ a {
 .sk-ww-google-reviews {
   width: 100%;
 }
+
+/* Homepage Live Google Reviews */
+.home-live-reviews {
+  width: 100%;
+  max-width: 1200px;
+  margin: 30px auto 35px;
+}
+
+.home-live-reviews .sk-ww-google-reviews {
+  width: 100%;
+}
